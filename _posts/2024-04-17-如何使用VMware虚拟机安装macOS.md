@@ -144,7 +144,7 @@ com.vmware.fusion\payload\VMware Fusion.app\Contents\Library\isoimages\x86_x64
 结言
 ------------
 创建我的个人博客耗费了两周的时间和巨大的精力，写这篇博客耗费了3天的时间，最终完稿日期：2024.4.17，希望看到的人能分享这个网站，之后我会更新更多的内容！谢谢大家！
-
+<!-- Gitalk end -->
 
  <!-- disqus 评论框 start  -->
 {% if site.disqus.enable %}
