@@ -144,6 +144,28 @@ com.vmware.fusion\payload\VMware Fusion.app\Contents\Library\isoimages\x86_x64
 结言
 ------------
 创建我的个人博客耗费了两周的时间和巨大的精力，写这篇博客耗费了3天的时间，最终完稿日期：2024.4.17，希望看到的人能分享这个网站，之后我会更新更多的内容！谢谢大家！
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
 <!-- Gitalk end -->
 
  <!-- disqus 评论框 start  -->
