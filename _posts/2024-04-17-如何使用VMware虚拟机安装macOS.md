@@ -49,9 +49,9 @@ tags:
 
 然后就到了选择客户机操作系统，如果VMware在没有使用Unlocker解锁的情况下打开，在选择虚拟机操作系统时没有Apple Mac OS X的选项
 
-然后版本我们选择ISO文件的版本，这里我提供的是macOS Catalina 10.51.7，就选择macOS 10就可以了
+然后版本我们选择ISO文件的版本，这里我提供的是macOS Catalina 10.15.7，就选择macOS 10就可以了
 
-[macOS Catalina 10.51.7 ISO 网盘下载](https://pan.xunlei.com/s/VNzT19IBhTeZ6bwoGRI887OdA1?pwd=up6a#)（这个是迅雷网盘）
+[macOS Catalina 10.15.7 ISO 网盘下载](https://caiyun.139.com/m/i?2fALg7syUoC5n)（这个是移动云盘，提取码:nc3o）
 
 然后到了命名虚拟机，这个自己决定就行了，好了之后点击<下一步>
 
@@ -145,12 +145,6 @@ com.vmware.fusion\payload\VMware Fusion.app\Contents\Library\isoimages\x86_x64
 ------------
 创建我的个人博客耗费了两周的时间和巨大的精力，写这篇博客耗费了3天的时间，最终完稿日期：2024.4.17，希望看到的人能分享这个网站，之后我会更新更多的内容！谢谢大家！如果有什么想跟作者说的私信[作者的Github](https://github.com/tigerxiaoxi)，作者会认真倾听。
 
-改动&感谢
+备用下载链接
 ------------
-第一次改动：2024.6.3
-
-改动原因：镜像问题（反馈镜像卡顿）
-
-改动内容：镜像macOS Sonoma 14.4.1更改为macOS Catalina 10.51.7
-
-感谢：[itellyou我告诉你系统镜像库](next.itellyou.cn)和[(gitee)@yanghaoran](https://gitee.com/yanghaoranc)
+[macOS Monterey 12.6 ISO](https://caiyun.139.com/m/i?2fALgqtVuvpdh)  （提取码:pn3d，中国移动云盘）
