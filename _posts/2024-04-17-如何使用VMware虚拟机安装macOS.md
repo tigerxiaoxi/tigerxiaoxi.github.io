@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      这篇教程教你在Windows电脑上安装macOS
-subtitle:   让我们安装macOS吧
+subtitle:   安装macOS
 date:       2024-4-17
 author:     TigerXiaoxi
 header-img: img/the-first.png
