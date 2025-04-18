@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/1-resources</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/2-tags</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/3-about</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/2025/01/25/%E6%9C%AC%E7%BD%91%E7%AB%99%E5%B7%B2%E6%9B%B4%E6%96%B0</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://tigerxiaoxi.github.io/2024/04/17/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8VMware%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85macOS</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-04-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
