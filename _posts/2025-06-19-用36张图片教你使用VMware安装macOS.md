@@ -4,10 +4,9 @@ title:      用36张图片教你使用VMware安装macOS
 subtitle:   用36张图片教你使用VMware安装macOS
 date:       2025-6-19
 author:     TigerXiaoxi
-header-img: img/the-first.png
+header-img: img/StarTrails.jpg
 catalog: false
 tags:
-    - Windows
     - macOS
 ---
 
