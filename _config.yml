@@ -1,9 +1,9 @@
 # Site settings
-title: 虎小希的个人博客
-SEOTitle: Xiaoxi's Blog
+title: TigerXiaoxi 的个人博客
+SEOTitle: TigerXiaoxi's Blog
 header-img: img/genshin-impact.png
 email: 1956242193@qq.com
-description: "Windows各种教程"
+description: ""
 keyword: "Windows, ISO, VMware, macOS"
 url: "https://tigerxiaoxi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
