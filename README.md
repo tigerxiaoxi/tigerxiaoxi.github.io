@@ -1,3 +1,3 @@
-# TigerXiaoxi 的个人博客
+# TigerXiaoxi 的博客
 
 forked from [klovien/klovien.github.io](https://github.com/klovien/klovien.github.io)
