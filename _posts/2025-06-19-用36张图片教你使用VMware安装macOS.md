@@ -3,7 +3,7 @@ layout:     post
 title:      用36张图片教你使用VMware安装macOS
 subtitle:   用36张图片教你使用VMware安装macOS
 date:       2025-6-19
-author:     TigerXiaoxi
+author:     Venti__0616
 header-img: img/StarTrails.jpg
 catalog: false
 tags:
